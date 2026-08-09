@@ -5,7 +5,7 @@ A simple and responsive **Student Registration Form** created using HTML, CSS, a
 
 ## 🚀 Live Demo
 
-🔗 [View Live Demo](YOUR_LIVE_DEMO_LINK)
+🔗  https://susmithamariyappillai.github.io/student-registration-form/
 
 ## 📂 GitHub Repository
 
@@ -48,7 +48,7 @@ Student-Registration-Form/
 | Name     | Enter student's name           |
 | Email    | Enter student's email          |
 | Password | Minimum 6 characters           |
-| Submit   | Saves and displays the details |
+| Submit   | display successfully registration |
 
 ## 🎯 Learning Objectives
 
@@ -72,6 +72,6 @@ This project helps to practice:
 3. Open `index.html` in your browser.
 4. Enter the student details.
 5. Click **Submit**.
-6. The saved student details will be displayed below the form.
+6. The show successfully registration
 
 
