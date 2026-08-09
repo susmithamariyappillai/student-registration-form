@@ -1,1 +1,77 @@
-# student-registration-form
+
+# Student Registration Form
+
+A simple and responsive **Student Registration Form** created using HTML, CSS, and JavaScript.
+
+## 🚀 Live Demo
+
+🔗 [View Live Demo](YOUR_LIVE_DEMO_LINK)
+
+## 📂 GitHub Repository
+
+🔗 [View Repository](YOUR_GITHUB_REPOSITORY_LINK)
+
+## ✨ Features
+
+* Student Name input
+* Email input
+* Password input
+* Name validation
+* Email validation
+* Password validation
+* Minimum 6 characters for password
+* Submit button
+* Displays saved student details after submission
+* Prevents form submission when required fields are empty
+
+## 🛠️ Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+## 📁 Project Structure
+
+```text
+Student-Registration-Form/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 📋 Form Fields
+
+| Field    | Description                    |
+| -------- | ------------------------------ |
+| Name     | Enter student's name           |
+| Email    | Enter student's email          |
+| Password | Minimum 6 characters           |
+| Submit   | Saves and displays the details |
+
+## 🎯 Learning Objectives
+
+This project helps to practice:
+
+* HTML Forms
+* CSS Styling
+* JavaScript DOM Manipulation
+* Form Validation
+* Events and Event Handlers
+* `addEventListener()`
+* `preventDefault()`
+* Input `.value`
+* `textContent`
+* `innerHTML`
+
+## 💻 How to Run
+
+1. Clone this repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. Enter the student details.
+5. Click **Submit**.
+6. The saved student details will be displayed below the form.
+
+
